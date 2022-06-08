@@ -1,0 +1,34 @@
+_repo: Van-Pool-tot-Pool-Mijn-75000-kilometer-lange-reis-verteld-aan-alle-Jongens-en-Meisjes_68251
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hedin, Sven Anders
+    aliases:
+    - Khedin, Sven Anders
+    - Gedin, Sven
+    birthdate: 1865
+    deathdate: 1952
+    gutenberg_agent_id: '9475'
+    url: http://www.gutenberg.org/2009/agents/9475
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Sven_Hedin
+    - https://fi.wikipedia.org/wiki/Sven_Hedin
+description: ''
+gutenberg_issued: '2022-06-06'
+identifiers:
+  gutenberg: '68251'
+language: nl
+pgterms:marc905: 20201025051629hedin
+pgterms:marc906: '1912'
+pgterms:marc907: NL
+production_note: Jeroen Hellingman and the Online Distributed Proofreading Team at
+  https://www.pgdp.net/ for Project Gutenberg
+publication_note: Netherlands :W. de Haan,1912.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Van Pool tot Pool: Mijn 75000 kilometer lange reis verteld aan alle Jongens
+  en Meisjes'
+url: http://www.gutenberg.org/ebooks/68251
